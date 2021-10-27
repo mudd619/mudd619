@@ -2,7 +2,7 @@
 
 
 <h3>About me</h3>
-- 👋 Hi, Mohammed Muddasir<br/>
+- 👋 Hi, I'm Mohammed Muddasir<br/>
 - 🌱 I’m currently learning Full Stack Web Development<br/>
 - 💞️ I’m looking forward to collaborate on various projects<br/>
 - 📫 Feel free to contact me
@@ -24,7 +24,12 @@ You can click the Preview link to take a look at your changes.
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p
-
-  
+<h3>Connect</h3>
+  <a href="https://www.linkedin.com/in/mohammed-muddasir-4a25a9222/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
+  </a>  
+  <a href="https://muddasir-portfolio.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
+  </a>
   <h3></h3>
   <h3>Some Cool Team Projects  👇 </h3>
