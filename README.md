@@ -1,4 +1,4 @@
-<img   style="width : 30%,height:30vw" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"/>
+<img   style="width : 30%,height:30vw,justify-content:center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"/>
 
 
 
