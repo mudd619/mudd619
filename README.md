@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p
   <h3></h3>
-<h3>Connect</h3><br/>
+<h3>Connect</h3>
   <a href="https://www.linkedin.com/in/mohammed-muddasir-4a25a9222/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
