@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3>Skills</h3>
+<p>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  </p>
 yooo mannn settt goooo getttt noooo nowwwww gooooooo
