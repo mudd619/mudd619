@@ -2,9 +2,9 @@
 
 
 <h3>About me</h3>
-- 👋 Hi, Mohammed Muddasir
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking forward to collaborate on various projects
+- 👋 Hi, Mohammed Muddasir<br/>
+- 🌱 I’m currently learning Full Stack Web Development<br/>
+- 💞️ I’m looking forward to collaborate on various projects<br/>
 - 📫 Feel free to contact me
 
 <!---
