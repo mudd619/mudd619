@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
   <a href="https://muddasir-portfolio.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />  
+    <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=red" />  
   </a>
   <h3></h3>
   <h3>Some Cool Team Projects  👇 </h3>
