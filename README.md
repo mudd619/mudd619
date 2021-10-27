@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
   
   
-  <h3>Some of my cool Projects   </h3>👇
+  <h2>Some of my cool Projects   </h2>👇
