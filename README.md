@@ -5,7 +5,6 @@
 - 👋 Hi, I'm Mohammed Muddasir<br/>
 - 🌱 I’m currently learning Full Stack Web Development<br/>
 - 💞️ I’m looking forward to collaborate on various projects<br/>
-- 📫 Feel free to contact me
 
 <!---
 mudd619/mudd619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
