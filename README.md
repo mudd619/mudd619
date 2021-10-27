@@ -1,4 +1,4 @@
-<img height="400" width="1000"  style="width : 30,height:20,display:block,justify-content:center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"/>
+<img height="450" width="1000"  style="width : 30,height:20,display:block,justify-content:center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"/>
 
 
 <h3>About me</h3>
